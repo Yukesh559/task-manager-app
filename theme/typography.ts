@@ -1,0 +1,32 @@
+export const typography = {
+  fontFamily: {
+    regular: "Poppins-Regular",
+    medium: "Poppins-Medium",
+    semiBold: "Poppins-SemiBold",
+    bold: "Poppins-Bold",
+    light: "Poppins-Light",
+    thin: "Poppins-Thin",
+    extraBold: "Poppins-ExtraBold",
+    extraLight: "Poppins-ExtraLight",
+    black: "Poppins-Black",
+    mono: "SpaceMono-Regular",
+    icons: "app_icons",
+  },
+  fontSize: {
+    h1: 28,
+    h2: 24,
+    h3: 20,
+    body: 16,
+    caption: 13,
+    small: 11,
+  },
+  fontWeight: {
+    regular: "400",
+    medium: "500",
+    semiBold: "600",
+    bold: "700",
+    light: "300",
+    thin: "100",
+    black: "900",
+  },
+};
